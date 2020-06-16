@@ -1,0 +1,28 @@
+{
+    "pessoas" : [
+        {
+            "nome": "nona",
+            "value": 0
+        },
+        {
+            "nome": "nono",
+            "value": 0
+        },
+        {
+            "nome": "dante",
+            "value": 0
+        },
+        {
+            "nome": "giuseppe",
+            "value": 0
+        },
+        {
+            "nome": "marina",
+            "value": 0
+        },
+        {
+            "nome": "angelo",
+            "value": 0
+        }
+    ]
+}
